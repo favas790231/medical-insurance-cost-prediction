@@ -115,4 +115,4 @@ medical-insurance-cost-prediction/
 - Applied feature engineering to create an interaction feature.
 - Built a Multiple Linear Regression model using Scikit-learn.
 - Evaluated regression performance using standard evaluation metrics.
-- Visualized relationships between features and model predictions.
+- Visualized relationships between features and model predictions
