@@ -8,7 +8,7 @@ The project includes Exploratory Data Analysis (EDA), data preprocessing, featur
 
 ## Dataset
 
-The dataset used in this project is the Medical Cost Personal Dataset from Kaggle.
+The dataset used in this project is the Medical Cost Personal Dataset from Kaggle
 
 - **Source:** [Medical Cost Personal Dataset – Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **Total Records:** 1,338
